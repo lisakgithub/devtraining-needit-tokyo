@@ -1,0 +1,50 @@
+Charity Anderson (government)
+EPSB
+Cap Gemini
+COE Team? (Center of Excellence)
+Mitchell Hines
+Valerie Colbert
+Eugene Sikorski
+
+PaaS Confluence Page
+
+epsb-coe@ice.dhs.gov
+
+
+Development Management
+Platform Architect - Antonio Maradiaga (GOV)
+Platform Owner(s) - James Santo (GOV), Charity Anderson (GOV)
+IT Process/ Domain Owners - Mark Gromadzki (GOV), Heather Lynch (GOV), Sarmistha Adhya (GOV)
+Program Manager - TBD
+Project Manager(s) - Various
+Business Analyst(s) - Various
+Quality Assurance Lead - Kayla Kelly (GOV)
+Security/ Compliance Lead - Akem Mbelem (GOV)
+Development Lead - Sarmistha Adhya (GOV)  'Lead of the Platform Team'
+Partner(s) Development Lead - TBD
+
+Environment Management
+Platform Owner(s) - James Santo (GOV), Charity Anderson (GOV)
+Platform Architect - Antonio Maradiaga (GOV)
+Enterprise Architect - TBD
+Portfolio/ Service Owner(s) - TBD
+Process Owner(s) - Mark Gromadzki (GOV), Heather Lynch (GOV)
+Program Manager - TBD
+
+Instance Structure - External
+Charity Anderson Email: Charity.Anderson@ice.dhs.gov
+Glenn Gramling Email: Glenn.Gramling@associates.ice.dhs.gov
+Aaron Justice Email: Aaron.Justice@ice.dhs.gov
+Brian Sorin Email: Brian.W.Sorin@associates.ice.dhs.gov
+Adam Laubach (T8 Apps) Email: Adam.M.Laubach@associates.ice.dhs.gov
+
+Internal Instance - Points of Contact
+Sandbox:
+Charity Anderson Email: Charity.Anderson@ice.dhs.gov
+Dev, Test and Production:
+Travis Nolan Email: Travis.J.Nolan@associates.ice.dhs.gov
+Mark Gromadzki Email: Mark.Gromadzki@ice.dhs.gov
+UAT:
+Yukti Sharma Email: Yukti.Sharma@associates.ice.dhs.gov
+Sarmistha Adhya Email: Sarmistha.Adhya@ice.dhs.gov
+Note: The monthly Health Scan is done in the TEST environment. 
